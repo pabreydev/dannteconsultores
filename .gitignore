@@ -5,8 +5,3 @@
 #
 # Note: if you want to stage/commit WP core files
 
-/wp-admin/
-
-
-# Configuration
-wp-config.php
